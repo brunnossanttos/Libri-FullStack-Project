@@ -1,4 +1,4 @@
-# Skoob Clone
+# Libri is a Skoob Clone
 
 A clone of the Skoob app built to learn Go for the backend and modern frontend development.
 
